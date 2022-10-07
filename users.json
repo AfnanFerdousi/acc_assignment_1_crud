@@ -1,0 +1,83 @@
+[
+    {
+        "id": "1",
+        "gender": "male",
+        "name" : "Mitsubishi",
+        "address" : "Japan",
+        "contact" : "+00045453535636",
+        "photoUrl" : "https://rukminim1.flixcart.com/image/416/416/kvlaaa80/poster/b/z/b/medium-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-original-imag8gayqv2dfv9g.jpeg?q=70"
+
+    },
+    {
+        "id": "2",
+        "gender": "female",
+        "name": "Mitsuha",
+        "address": "Japan",
+        "contact": "+00045456456456746",
+        "photoUrl": "https://rukminim1.flixcart.com/image/416/416/kvlaaa80/poster/b/z/b/medium-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-original-imag8gayqv2dfv9g.jpeg?q=70"
+    },
+    {
+        "id": "3",
+        "gender": "male",
+        "name": "Ye yin",
+        "address": "China",
+        "contact": "6564566",
+        "photoUrl": "https://rukminim1.flixcart.com/image/416/416/kvlaaa80/poster/b/z/b/medium-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-original-imag8gayqv2dfv9g.jpeg?q=70"
+    },
+    {
+        "id": "4",
+        "gender": "female",
+        "name": "Deng ziqi",
+        "address": "China",
+        "contact": "645767787",
+        "photoUrl": "https://rukminim1.flixcart.com/image/416/416/kvlaaa80/poster/b/z/b/medium-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-original-imag8gayqv2dfv9g.jpeg?q=70"
+    },
+    {
+        "id": "5",
+        "gender": "male",
+        "name": "Ashraf",
+        "address": "Bangladesh",
+        "contact": "019656686536",
+        "photoUrl": "https://rukminim1.flixcart.com/image/416/416/kvlaaa80/poster/b/z/b/medium-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-original-imag8gayqv2dfv9g.jpeg?q=70"
+    },
+    {
+        "id": "6",
+        "gender": "female",
+        "name": "Afnan",
+        "address": "Bangladesh",
+        "contact": "01959345656",
+        "photoUrl": "https://rukminim1.flixcart.com/image/416/416/kvlaaa80/poster/b/z/b/medium-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-original-imag8gayqv2dfv9g.jpeg?q=70"
+    },
+    {
+        "id": "7",
+        "gender": "male",
+        "name": "Daiyan",
+        "address": "Alien",
+        "contact": "+543536546",
+        "photoUrl": "https://rukminim1.flixcart.com/image/416/416/kvlaaa80/poster/b/z/b/medium-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-original-imag8gayqv2dfv9g.jpeg?q=70"
+    },
+    {
+        "id": "8",
+        "gender": "female",
+        "name": "Atika",
+        "address": "Bangladesh",
+        "contact": "+3645645674",
+        "photoUrl": "https://rukminim1.flixcart.com/image/416/416/kvlaaa80/poster/b/z/b/medium-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-original-imag8gayqv2dfv9g.jpeg?q=70"
+    },
+    {
+        "id": "9",
+        "gender": "male",
+        "name": "SK",
+        "address": "German",
+        "contact": "+564647676",
+        "photoUrl": "https://rukminim1.flixcart.com/image/416/416/kvlaaa80/poster/b/z/b/medium-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-original-imag8gayqv2dfv9g.jpeg?q=70"
+    },
+    {
+        "id": "10",
+        "gender": "female",
+        "name": "Faiza Feroz",
+        "address": "Dhaka",
+        "contact": "+4676485687",
+        "photoUrl": "https://rukminim1.flixcart.com/image/416/416/kvlaaa80/poster/b/z/b/medium-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-original-imag8gayqv2dfv9g.jpeg?q=70"
+    }
+]
